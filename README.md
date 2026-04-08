@@ -26,7 +26,7 @@
 - 选择进阶方式的理由：Parquet为列式存储格式，拥有极高的压缩比。同样是存储 A 股全市场的历史日线数据，Parquet 文件占用的硬盘空间可能只有 CSV 或 SQLite 的 1/10 甚至更少。
 
 ### GitHub 仓库
-https://github.com/Ne0po1itan/dshw-p01
+https://github.com/Ne0po1itan/dshw-p02
 
 ### 如何运行
 1. 安装依赖：`pip install -r requirements.txt`
